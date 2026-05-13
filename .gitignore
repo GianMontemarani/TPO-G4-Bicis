@@ -1,0 +1,27 @@
+# Datos crudos y procesados (demasiado grandes para GitHub)
+Datasets
+data/
+
+# Jupyter checkpoints
+notebooks/.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+# Claude Code (configuración local)
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
